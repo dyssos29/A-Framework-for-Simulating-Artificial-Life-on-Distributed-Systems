@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.dev.js"></script>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>Island Model PGA Framework</h1>
+    <h2>Results of the <%= title %>.</h2>
+    <h3>Real-time Migrations.</h3>
+    <div id="migrations">
+      <% if (migrations.length > 0){ %>
+        <% migrations.forEach(function(item){ %>
+        <p>Island id: <%=item.nodeId %>, Generation: <%=item.generationNumber %>, Best individual: <%=item.bestFitnessValue %></p>
+        <% }); %>
+      <%	} %>
+    </div>
+    <script src="/socket.js"></script>
+  </body>
+</html>
