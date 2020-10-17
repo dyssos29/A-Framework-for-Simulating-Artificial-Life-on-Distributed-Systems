@@ -13,3 +13,6 @@ configurations and changes in the software of the simulation. Therefore,
 this paper proposes an efficient and state of the art tool to solve this problem
 in a modern fashion. More specifically, this tool is a microservice-based
 framework which is able to run on any distributed environment.
+
+### Initial Vision of the System
+![system vision](/Presentation/Pictures/SystemVision.jpg?raw=true)
