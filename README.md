@@ -16,3 +16,9 @@ framework which is able to run on any distributed environment.
 
 ### Initial Vision of the System
 ![system vision](/Presentation/Pictures/SystemVision.jpg?raw=true)
+
+### Theoretical Model of the System
+![theoretical model](/Presentation/Pictures/TheoreticalModel.jpg?raw=true)
+
+### Final Architecture of the System
+![final architecture](/Presentation/Pictures/SoftwareStackArchitecture.jpg?raw=true)
