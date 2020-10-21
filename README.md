@@ -1,6 +1,14 @@
 # A Framework for Simulating Artificial Life on Distributed Systems
-This is the undergraduate final year project that I needed to build for my college degree.
+This is the dissertation research project that I needed to build for my Bachelor's degree in Computer Science. In brief, this project is essentially a tool for running Artificial Life digital simulations on a distributed system, using state of the art technologies related to distributed computing and graphic visuals. In particular, the main technologies used in this software are the following:
+* **Processing** for presenting the digital simulation in a graphical environment.
+* **RabbitMQ** for robust data communication between software components.
+* **Node.js** for its event-driven and non-blocking I/O nature, a characteristic that the project sofware needed.
+* **WebSockets** for real-time communication and data transfer.
+* **Docker** containerization technology for containerizing the whole software stack and Docker Swarm for enabling it to operate on any distributed system.
 
+Last important point to make is that the notion of Parallel Genetic Algorithms were heavily used for the creation of this framework. More precisely, the particular framework is primarily based on a Parallel Genetic Algorithm, which is the **Island Model Genetic Algorithm**.
+
+## Abstract of Dissertation Research Paper
 *Abstract*: This paper describes a software project, which is a distributed framework
 for running Artificial Life simulations. Operating this type of simulations
 can be sometime very expensive in terms of computational power. This
