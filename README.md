@@ -32,4 +32,4 @@ framework which is able to run on any distributed environment.
 ![final architecture](/Pictures/SoftwareStackArchitecture.jpg?raw=true)
 
 ## Video Demo
-[![video_demo](/Pictures/YoutubeScreenshot.png?raw=true)](https://www.youtube.com/watch?v=nsu5uAYe1us&t=0s&ab_channel=OdysseasFilippidis "Short Video Presentation"){:target="_blank"}
+[![video_demo](/Pictures/YoutubeScreenshot.png?raw=true)](https://www.youtube.com/watch?v=nsu5uAYe1us&t=0s&ab_channel=OdysseasFilippidis "Short Video Presentation")
