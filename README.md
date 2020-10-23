@@ -30,3 +30,6 @@ framework which is able to run on any distributed environment.
 
 ## Final Architecture of the System
 ![final architecture](/Pictures/SoftwareStackArchitecture.jpg?raw=true)
+
+## Video Demo
+[![video_demo](/Pictures/YoutubeScreenshot.png?raw=true)](https://www.youtube.com/watch?v=nsu5uAYe1us&t=120s&ab_channel=OdysseasFilippidis "Short Video Presentation")
