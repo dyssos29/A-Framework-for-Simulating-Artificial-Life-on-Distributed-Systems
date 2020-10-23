@@ -23,10 +23,10 @@ in a modern fashion. More specifically, this tool is a microservice-based
 framework which is able to run on any distributed environment.
 
 ## Initial Vision of the System
-![system vision](/Presentation/Pictures/SystemVision.jpg?raw=true)
+![system vision](/Pictures/SystemVision.jpg?raw=true)
 
 ## Theoretical Model of the System
-![theoretical model](/Presentation/Pictures/TheoreticalModel.jpg?raw=true)
+![theoretical model](/Pictures/TheoreticalModel.jpg?raw=true)
 
 ## Final Architecture of the System
-![final architecture](/Presentation/Pictures/SoftwareStackArchitecture.jpg?raw=true)
+![final architecture](/Pictures/SoftwareStackArchitecture.jpg?raw=true)
